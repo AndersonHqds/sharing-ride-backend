@@ -24,7 +24,6 @@ module.exports = {
     "no-unused-vars": ["error", { "argsIgnorePattern": "next" }],
     "no-confusing-arrow": ["error", {"allowParens": false}],
     "quotes": ["error", "single", { "allowTemplateLiterals": true }],
-    "sort-requires/sort-requires": 2,
     "template-curly-spacing": "off"
   },
 };
